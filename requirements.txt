@@ -7,3 +7,4 @@ time
 ta
 warnings
 math.ceil
+yfinance
