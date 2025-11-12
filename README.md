@@ -1,0 +1,2 @@
+# smap
+Smartmoney Detector
