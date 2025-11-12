@@ -1,10 +1,6 @@
 streamlit
 pandas
 numpy
-math
-io
-time
-ta
-warnings
-math.ceil
 yfinance
+ta
+plotly
